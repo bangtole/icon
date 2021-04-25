@@ -1,8 +1,8 @@
 
 addEventListener("fetch", event => {
   const data = {
-    name: "Marwanto606",
-    short_name: "Marwanto606",
+    name: "Bangtole.com",
+    short_name: "Bangtole.com",
     display: "standalone",
     prefer_related_applications: false,
     start_url: ".",
